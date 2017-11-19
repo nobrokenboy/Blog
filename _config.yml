@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ²»ÆÆÐ¡×Ó²©¿ÍÖ®ÂÃ
-subtitle: Å¬Á¦×ö¸ö¾«Í¨Éè¼ÆµÄ½»»¥Ê¦µÄÇ°¶Ë¹¤³ÌÊ¦
-description: ×¨×¢Ç°¶Ë£¬ÈÈ°®Éú»î£¬ÈÈ°®Ê±ÉÐµÄÐ¡³Ô»õ
+title: ï¿½ï¿½ï¿½ï¿½Ð¡ï¿½Ó²ï¿½ï¿½ï¿½Ö®ï¿½ï¿½
+subtitle: Å¬ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Í¨ï¿½ï¿½ÆµÄ½ï¿½ï¿½ï¿½Ê¦ï¿½ï¿½Ç°ï¿½Ë¹ï¿½ï¿½ï¿½Ê¦
+description: ×¨×¢Ç°ï¿½Ë£ï¿½ï¿½È°ï¿½ï¿½ï¿½ï¿½î£¬ï¿½È°ï¿½Ê±ï¿½Ðµï¿½Ð¡ï¿½Ô»ï¿½
 author: Jessica Chan
 language:
 timezone:
@@ -63,10 +63,10 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: apollo
+theme: next
 
-# ÔÚ¹éµµÒ³ÃæÏÔÊ¾ËùÓÐÎÄÕÂ,Õâ¸öÊÇapolloÖ÷ÌâÖ§³ÖµÄ
-# ÐèÒªÉÏÃæ°²×°µÄ hexo-generator-archive ²å¼þÖ§³Ö
+# ï¿½Ú¹éµµÒ³ï¿½ï¿½ï¿½ï¿½Ê¾ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½,ï¿½ï¿½ï¿½ï¿½ï¿½apolloï¿½ï¿½ï¿½ï¿½Ö§ï¿½Öµï¿½
+# ï¿½ï¿½Òªï¿½ï¿½ï¿½æ°²×°ï¿½ï¿½ hexo-generator-archive ï¿½ï¿½ï¿½Ö§ï¿½ï¿½
 archive_generator:
     per_page: 0
     yearly: false
