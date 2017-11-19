@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: ����С�Ӳ���֮��
-subtitle: Ŭ��������ͨ��ƵĽ���ʦ��ǰ�˹���ʦ
-description: רעǰ�ˣ��Ȱ�����Ȱ�ʱ�е�С�Ի�
+title: 不破小子的博客
+subtitle: 隔了一年，开启新的旅程
+description: 热爱生活，努力学习，喜欢四处走走，坚持实现梦想的人不可以这么偷懒下去哦
 author: Jessica Chan
 language:
 timezone:
@@ -65,8 +65,6 @@ pagination_dir: page
 ## Themes: https://hexo.io/themes/
 theme: next
 
-# �ڹ鵵ҳ����ʾ��������,�����apollo����֧�ֵ�
-# ��Ҫ���氲װ�� hexo-generator-archive ���֧��
 archive_generator:
     per_page: 0
     yearly: false
